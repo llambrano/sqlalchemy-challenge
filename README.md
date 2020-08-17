@@ -6,7 +6,7 @@
 
 You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area.
 
-![](images/hawaii.png)
+![](Images/hawaii.png)
 
 ---
 
@@ -16,7 +16,7 @@ You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii!
 
 Design a query to retrieve the last 12 months of precipitation data.
 
-![](images/precipitation_graph.png)
+![](Images/precipitation_graph.png)
 
 [view solution](https://github.com/llambrano/sqlalchemy-challenge/blob/master/climate_starter.ipynb)
 
@@ -37,7 +37,7 @@ Design a query to retrieve the last 12 months of precipitation data.
 
 * Design a query to retrieve the last 12 months of temperature observation data (TOBS).
 
-![](images/temp_graph.png)
+![](Images/temp_graph.png)
 
 [view solution](https://github.com/llambrano/sqlalchemy-challenge/blob/master/climate_starter.ipynb)
 
