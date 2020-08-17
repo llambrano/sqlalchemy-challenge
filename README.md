@@ -10,7 +10,7 @@ You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii!
 
 ---
 
-## Step 1 - Climate Analysis and Exploration <a name="data_modeling"></a>
+## Climate Analysis and Exploration <a name="data_modeling"></a>
 
 **Precipitation Analysis**
 
@@ -18,7 +18,7 @@ Design a query to retrieve the last 12 months of precipitation data.
 
 ![](images/precipitation_graph.png)
 
-view solution
+[view solution](https://github.com/llambrano/sqlalchemy-challenge/blob/master/climate_starter.ipynb)
 
 ---
 
@@ -39,5 +39,5 @@ view solution
 
 ![](images/temp_graph.png)
 
-view solution
+[view solution](https://github.com/llambrano/sqlalchemy-challenge/blob/master/climate_starter.ipynb)
 
